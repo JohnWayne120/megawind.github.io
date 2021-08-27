@@ -1,6 +1,6 @@
 {
-    "name": "web_aplication",
-    "short_name": "web_aplication",
+    "name": "Mega Wind",
+    "short_name": "MegaWind",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
